@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisionAlgorithm", "DivisionAlgorithm\DivisionAlgorithm.csproj", "{E14B3D57-4A64-46B3-8B0B-59331956DB9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E14B3D57-4A64-46B3-8B0B-59331956DB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14B3D57-4A64-46B3-8B0B-59331956DB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14B3D57-4A64-46B3-8B0B-59331956DB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14B3D57-4A64-46B3-8B0B-59331956DB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {052B83A4-3BD8-4771-B36B-79F07C28FBEB}
+	EndGlobalSection
+EndGlobal
